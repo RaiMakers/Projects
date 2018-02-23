@@ -37,6 +37,7 @@
 * [nano-paper-wallet](https://github.com/jelofsson/nano-paper-wallet) - Responsive Nano paper wallet with multiple themes
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for Nano, without seed and address generation
 * [rai-paper-wallet](https://github.com/numtel/rai-paper-wallet/) - Simple paper wallet with seed and address generation
+* [NanoWarpWallet](https://termhn.github.io/nanowarpwallet/) - A Nano brain wallet generator that uses scrypt. 
 
 <a name="NodeImplementations"></a>
 ### Node Implementations
@@ -97,7 +98,8 @@
 * [nano-webgl-pow](https://github.com/numtel/nano-webgl-pow) - Nano PoW using WebGL
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW) - Nano PoW using WebAssembly
 * [node-raiblocks-pow](https://github.com/numtel/node-raiblocks-pow) - Nano NodeJS PoW using native compiled C++
-* [nano-pow-rs](https://github.com/termhn/nanopow-rs/) - Nano PoW written in Rust
+* [nanopow-rs](https://github.com/termhn/nanopow-rs/) - Nano PoW written in Rust
+* [nanopow-rs-node](https://github.com/termhn/nanopow-rs-node) - A Node.js native module for nanopow-rs to provide fast, safe, fully multithreaded Nano proof-of-work generation in Node.js. 
 
 <a name="Merchants"></a>
 ### Merchants
