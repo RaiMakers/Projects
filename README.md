@@ -105,6 +105,7 @@
 <a name="Merchants"></a>
 ### Merchants
 * [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept Nano
+* [nanobox.es](https://nanobox.es/) - A marketplace where to buy and sell any digital product with Nano.
 
 <a name="VanityAddress"></a>
 ### Vanity Address Generators
