@@ -76,6 +76,7 @@
 
 <a name="Tickers"></a>
 ### Tickers
+* [CryptoLights](https://cryptolights.info) - Live transaction visualisation / ticker
 * [RaiMoon](https://github.com/dannytatom/RaiMoon) - Mac Menu App Bar Ticker
 
 <a name="ProductionApps"></a>
