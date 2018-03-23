@@ -7,6 +7,7 @@
 * [Nano Wallets](#NanoWallets)
 * [Nano Paper Wallets](#NanoPaperWallets)
 * [Node Implementations](#NodeImplementations)
+* [Node Management](#NodeManagement)
 * [SDKs](#SDKs)
 * [Bots](#Bots)
 * [Block Explorers](#BlockExplorers)
@@ -46,6 +47,10 @@
 * [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full Nano node written in C#
 * [GoNano](https://github.com/frankh/nano) - Node in early development, written in GoLang
 * [Node.js Nano Node](https://github.com/numtel/node-nano-node) - Nano partial node, written in NodeJS
+
+<a name="NodeManagement"></a>
+### Node Management
+* [Nano Node Monitor](https://github.com/nanotools/nanoNodeMonitor) - Web Frontend for your Nano Node
 
 <a name="SDKs"></a>
 ### SDKs
