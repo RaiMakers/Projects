@@ -31,6 +31,7 @@
 * [BitCougar Wallet](https://github.com/eduardofacunha/bitcougar-wallet) - Light wallet for Android
 * [xrb-light-wallet](https://github.com/numtel/xrb-light-wallet) - Another Nano web wallet implementation
 * [raivault](https://github.com/cronoh/raivault) - Another Nano web and desktop wallet
+* [Nanollet](https://github.com/BrokenByDefault/Nanollet) - A light wallet with 2FA and support for [Nanofy](https://github.com/BrokenByDefault/Nanofy), written in Golang.
 
 <a name="NanoPaperWallets"></a>
 ### Nano Paper Wallets
