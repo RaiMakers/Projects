@@ -7,6 +7,7 @@
 * [Nano Wallets](#NanoWallets)
 * [Nano Paper Wallets](#NanoPaperWallets)
 * [Node Implementations](#NodeImplementations)
+* [Node Installers](#NodeInstallers)
 * [Node Management](#NodeManagement)
 * [SDKs](#SDKs)
 * [Bots](#Bots)
@@ -47,6 +48,11 @@
 * [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full Nano node written in C#
 * [GoNano](https://github.com/frankh/nano) - Node in early development, written in GoLang
 * [Node.js Nano Node](https://github.com/numtel/node-nano-node) - Nano partial node, written in NodeJS
+
+<a name="NodeInstallers"></a>
+### Node Installers
+* [Easy Nano Node](https://github.com/NanoTools/easy-nano-node) - Spin up a representative node in minutes
+* [NANO Node Docker stack](https://github.com/lephleg/nano-node-docker) - An automated NANO node setup using Docker with fast-syncing and easy SSL support
 
 <a name="NodeManagement"></a>
 ### Node Management
