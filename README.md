@@ -64,6 +64,7 @@
 ### Block Explorers
 * [Nanode.co](https://www.nanode.co/)
 * [Nanowat.ch](https://nanowat.ch/)
+* [Nano.Meltingice.net](https://nano.meltingice.net/explorer/)
 
 <a name="RPCServers"></a>
 ### Libraries and RPC clients
