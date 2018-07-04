@@ -124,6 +124,7 @@
 ### Vanity Address Generators
 * [nano-vanity](https://github.com/PlasmaPower/nano-vanity) - A CPU & GPU Nano vanity address generator, written in Rust
 * [frankh/nano-vanity](https://github.com/frankh/nano-vanity) - A CPU only, simple vanity address generator, written in Go
+* [NanoAddr](https://nanoaddr.io/) - This service provide a simple way to find your personalized Nano address directly into your browser
 
 <a name="NetworkTools"></a>
 ### Network Tools
