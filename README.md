@@ -79,6 +79,7 @@
 * [Canoed Server](https://github.com/getcanoe/canoed) [Nim] - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
 * [Prai](https://github.com/jxub/prai) [Python] - Nano Python RPC client
 * [Nano Light Server](https://github.com/AugustoResende/NanoLightServer) [JavaScript] - Nano decentralized wallet/node for light wallets.
+* [Nanook](https://github.com/lukes/nanook) [Ruby] - A Ruby RPC client
 * [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) [Python] - Nano Python RPC client and toolkit
 * [rai](https://github.com/kennell/rai) [Python] - A pythonic RPC client
 * [NanoDotNet](https://github.com/Flufd/NanoDotNet) [C#] - A .NET RPC Client
